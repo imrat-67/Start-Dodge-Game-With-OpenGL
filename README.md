@@ -1,4 +1,4 @@
-# Star Dodge - UFO Edition
+# Star Dodge 
 
 A simple 3D OpenGL game made with C++ and GLUT/freeglut. The player controls a UFO in a moon-like space arena, collects glowing rewards, and dodges falling meteors. The score increases as rewards are collected, and the difficulty rises with each level.
 
